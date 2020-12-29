@@ -14,3 +14,5 @@ Neste estudo me concentrei em analisar:
 - Quais bairros possuem os valores mais altos de imóveis e por metro quadrado;
 - A relação entre os preços dos imóveis e as suas áreas;
 - A relação entre o valor de condomínio e a área dos imóveis.
+
+Para acessar o notebook: https://colab.research.google.com/drive/14HSjZr9BLIxxCJNgxfMz9vEbFG1IwWJn?usp=sharing
